@@ -1,12 +1,15 @@
 ### Hi, I'm Larissa Lorenzi 👋
 
 ### About Me
+
+</div>
 - 💻 Data Scientist at Blu Pagamentos
 - 🎓 Data Science
 - 🚀 Fastest person to become the leader of the AI team at Blu Pagamentos
 - 📚 Blog Writter
 - 🌱: I’m currently learning leadership and innovation techniques to complement my AI and ML techniques
 - 💬: Ask me about data analysis, artificial intelligence projects and machine learning algorithms
+- </div>
 
 ### Get in Touch! 📬
 
