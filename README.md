@@ -1,6 +1,6 @@
 ### Hi, I'm Larissa Lorenzi 👋
 
-### About Me
+## About Me
 
 </div>
 - 💻 Data Scientist at Blu Pagamentos
@@ -11,7 +11,7 @@
 - 💬: Ask me about data analysis, artificial intelligence projects and machine learning algorithms
 - </div>
 
-### Get in Touch! 📬
+## Get in Touch! 📬
 
 <div>
 <a href="https://instagram.com/larissa.lorenzi" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
