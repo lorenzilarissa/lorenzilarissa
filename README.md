@@ -3,11 +3,11 @@
 ## About Me
 
 - 💻 Data Scientist at Blu Pagamentos
-- 🎓 Data Science
+- 🎓 Degrees in Business Administration and Data Science
 - 🚀 Fastest person to reach a mid-senior position in AI at Blu Pagamentos
 - 📚 Blog Writter - [bloglink]
-- 🌱: I’m currently learning how to be a better leader and how to implement innovation more efficiently to complement my AI and ML techniques
-- 💬: Ask me about data analysis, artificial intelligence projects and machine learning algorithms
+- 🌱 Currently focusing on enhancing leadership skills and exploring data-driven innovation to drive business growth
+- 💬 Feel free to reach out to me for discussions on data analysis, artificial intelligence projects, and machine learning algorithms
 
 ## <h1 align="center"> Get in Touch! 📬</h1>
 
