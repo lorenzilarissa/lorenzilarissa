@@ -1,4 +1,4 @@
-### Hi, I'm Larissa Lorenzi 👋
+# Hi, I'm Larissa Lorenzi 👋
 
 ## About Me
 
