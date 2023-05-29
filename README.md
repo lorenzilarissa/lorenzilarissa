@@ -6,9 +6,9 @@
 - 🎓 Data Science
 - 🚀 Fastest person to become the leader of the AI team at Blu Pagamentos
 - 📚 Blog Writter
-- 🌱: I’m currently learning leadership and innovation techniques to complement my AI and ML techniques
+- 🌱: I’m currently learning how to be a better leader and how to implement innovation more efficiently to complement my AI and ML techniques
 - 💬: Ask me about data analysis, artificial intelligence projects and machine learning algorithms
- 
+
 ## <h1 align="center"> Get in Touch! 📬</h1>
 
 <h1 align="center"> <div>
