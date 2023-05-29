@@ -41,9 +41,21 @@
 ### Some of my Projects! 🎨
 
 #### [Project 1: Exploratory Data Analysis](https://github.com/lorenzilarissa/exploratory-data-analysis)
-- Project Description: Analyzed customer data to identify distinct segments and develop targeted marketing strategies.
-- Tools Used: Python, Pandas, Scikit-learn, Matplotlib
+- Project Description: In this project, I've used Python libraries such as NumPy, Pandas, Matplotlib, Seaborn, and SciPy to perform data analysis and machine learning tasks.
+- Tools Used: Basic Statistics, Histogram, Box Plot, Q-Q Plot, T-Test, Correlation Analysis
 
-#### Project 2: Predictive Maintenance for Industrial Machinery
-- Project Description: Developed a predictive maintenance model to detect potential machine failures and optimize maintenance schedules.
-- Tools Used: Python, TensorFlow, Keras, Scikit-learn
+#### [Project 2: Sentiment Analysis](https://github.com/lorenzilarissa/nltk-sentiment-analysis)
+- Project Description: This project performs sentiment analysis on text using the Natural Language Toolkit (NLTK) library in Python. It utilizes NLTK's tokenization, stemming, and sentiment analysis capabilities to analyze the sentiment of a given text.
+- Tools Used: Python, nltk
+
+#### [Project 3: Gold Price Forecasting](https://github.com/lorenzilarissa/gold-price-forecasting)
+- Project Description: This project offers a comprehensive solution for data analysis, visualization, and predictive modeling, enabling users to gain insights into historical trends and make informed predictions for future gold prices.
+- Tools Used: Python, numpy, pandas, seaborn, matplotlib, statsmodels, scikit learn
+
+#### [Project 4: Chatbot](https://github.com/lorenzilarissa/conversational-ai-chatbot)
+- Project Description: It is a Python-based conversational agent that can answer queries about chatbots. It uses the TF-IDF algorithm to calculate the similarity between user input and a corpus of sentences. The chatbot provides responses based on the most similar sentence in the corpus.
+- Tools Used: Python, numpy, openai, scikit learn, nltk
+
+#### [Project 5: SOON]()
+- Project Description: Finishing edition
+- Tools Used: Finishing list
