@@ -4,7 +4,7 @@
 
 - 💻 Data Scientist at Blu Pagamentos
 - 🎓 Data Science
-- 🚀 Fastest person to become the leader of the AI team at Blu Pagamentos
+- 🚀 Fastest person to reach a mid-senior position in AI at Blu Pagamentos
 - 📚 Blog Writter
 - 🌱: I’m currently learning how to be a better leader and how to implement innovation more efficiently to complement my AI and ML techniques
 - 💬: Ask me about data analysis, artificial intelligence projects and machine learning algorithms
