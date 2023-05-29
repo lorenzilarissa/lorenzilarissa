@@ -5,7 +5,7 @@
 - 💻 Data Scientist at Blu Pagamentos
 - 🎓 Data Science
 - 🚀 Fastest person to reach a mid-senior position in AI at Blu Pagamentos
-- 📚 Blog Writter
+- 📚 Blog Writter - [bloglink]
 - 🌱: I’m currently learning how to be a better leader and how to implement innovation more efficiently to complement my AI and ML techniques
 - 💬: Ask me about data analysis, artificial intelligence projects and machine learning algorithms
 
