@@ -56,6 +56,6 @@
 - Project Description: It is a Python-based conversational agent that can answer queries about chatbots. It uses the TF-IDF algorithm to calculate the similarity between user input and a corpus of sentences. The chatbot provides responses based on the most similar sentence in the corpus.
 - Tools Used: Python, numpy, openai, scikit learn, nltk
 
-#### [Project 5: SOON]()
-- Project Description: Finishing edition
-- Tools Used: Finishing list
+#### [Project 5: Natural Language Preprocessing](https://github.com/lorenzilarissa/natural_language_preprocessing)
+- Project Description: In this project, I'd explored how to preprocess tweets for sentiment analysis. Here you can see how to use the NLTK package to perform a preprocessing pipeline for Twitter datasets.
+- Tools Used: Python, nltk, matplotlib
