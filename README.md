@@ -4,7 +4,7 @@
 
 - 💻 Data Scientist at Blu Pagamentos
 - 🎓 Degrees in Business Administration and Data Science
-- 🚀 Fastest person to reach a mid-senior position in AI at Blu Pagamentos
+- 🚀 Fastest person to reach a position in AI at Blu Pagamentos
 - 📚 Blog Writter - [bloglink]
 - 🌱 Currently focusing on enhancing leadership skills and exploring data-driven innovation to drive business growth
 - 💬 Feel free to reach out to me for discussions on data analysis, artificial intelligence projects, and machine learning algorithms
