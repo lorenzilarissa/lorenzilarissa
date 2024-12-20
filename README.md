@@ -40,22 +40,31 @@
 
 ### Some of my Projects! 🎨
 
-#### [Project 1: Exploratory Data Analysis](https://github.com/lorenzilarissa/exploratory-data-analysis)
+#### [Project 1: Data Pipeline Development for Business Insights](https://github.com/lorenzilarissa/northwind_desafio)
+- **Project Description:** In this project, I developed a complete data pipeline to centralize, process, and analyze the Northwind database, a fictional business dataset. The project aimed to integrate raw data from various sources, transform it into actionable insights, and visualize key metrics in a BI dashboard.
+- **Highlights:**
+  - Built a PostgreSQL database to store and organize the data.
+  - Used Python and DBT for data extraction, cleaning, and transformation (Stage and Core layers).
+  - Deployed Metabase via Docker for interactive dashboards displaying KPIs such as churn rate, average ticket size, and logistics efficiency.
+  - Provided actionable business recommendations for reducing churn and increasing ticket size.
+- **Tools Used:** Python, DBT, PostgreSQL, Metabase, Docker, Jupyter Notebook
+
+#### [Project 2: Exploratory Data Analysis](https://github.com/lorenzilarissa/exploratory-data-analysis)
 - Project Description: In this project, I've used Python libraries such as NumPy, Pandas, Matplotlib, Seaborn, and SciPy to perform data analysis and machine learning tasks.
 - Tools Used: Basic Statistics, Histogram, Box Plot, Q-Q Plot, T-Test, Correlation Analysis
 
-#### [Project 2: Sentiment Analysis](https://github.com/lorenzilarissa/nltk-sentiment-analysis)
+#### [Project 3: Sentiment Analysis](https://github.com/lorenzilarissa/nltk-sentiment-analysis)
 - Project Description: This project performs sentiment analysis on text using the Natural Language Toolkit (NLTK) library in Python. It utilizes NLTK's tokenization, stemming, and sentiment analysis capabilities to analyze the sentiment of a given text.
 - Tools Used: Python, nltk
 
-#### [Project 3: Gold Price Forecasting](https://github.com/lorenzilarissa/gold-price-forecasting)
+#### [Project 4: Gold Price Forecasting](https://github.com/lorenzilarissa/gold-price-forecasting)
 - Project Description: This project offers a comprehensive solution for data analysis, visualization, and predictive modeling, enabling users to gain insights into historical trends and make informed predictions for future gold prices.
 - Tools Used: Python, numpy, pandas, seaborn, matplotlib, statsmodels, scikit learn
 
-#### [Project 4: Chatbot](https://github.com/lorenzilarissa/conversational-ai-chatbot)
+#### [Project 5: Chatbot](https://github.com/lorenzilarissa/conversational-ai-chatbot)
 - Project Description: It is a Python-based conversational agent that can answer queries about chatbots. It uses the TF-IDF algorithm to calculate the similarity between user input and a corpus of sentences. The chatbot provides responses based on the most similar sentence in the corpus.
 - Tools Used: Python, numpy, openai, scikit learn, nltk
 
-#### [Project 5: Natural Language Preprocessing](https://github.com/lorenzilarissa/natural_language_preprocessing)
+#### [Project 6: Natural Language Preprocessing](https://github.com/lorenzilarissa/natural_language_preprocessing)
 - Project Description: In this project, I'd explored how to preprocess tweets for sentiment analysis. Here you can see how to use the NLTK package to perform a preprocessing pipeline for Twitter datasets.
 - Tools Used: Python, nltk, matplotlib
