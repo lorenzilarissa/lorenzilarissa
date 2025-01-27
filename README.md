@@ -2,7 +2,7 @@
 
 ## About Me
 
-- 💻 Data Scientist at Blu Pagamentos
+- 💻 Analytics Engineer at Indicium
 - 🎓 Degrees in Business Administration and Data Science
 - 🚀 Fastest person to reach a position in AI at Blu Pagamentos
 - 📚 Blog Writter - [bloglink]
