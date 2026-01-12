@@ -2,7 +2,7 @@
 
 ## About Me
 
-- 💻 Analytics Engineer at Indicium
+- 💻 Analytics Engineer at Monzo
 - 🎓 Degrees in Business Administration and Data Science
 - 🚀 Fastest person to reach a position in AI at Blu Pagamentos
 - 📚 Blog Writter - [bloglink]
