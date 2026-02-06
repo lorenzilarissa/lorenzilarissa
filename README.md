@@ -2,7 +2,7 @@
 
 ## About Me
 
-- 💻 Analytics Engineer at Monzo
+- 💻 Analytics Engineer & Data Scientist
 - 🎓 Degrees in Business Administration and Data Science
 - 🚀 Fastest person to reach a position in AI at Blu Pagamentos
 - 📚 Blog Writter - [bloglink]
@@ -41,6 +41,15 @@
 ### Some of my Projects! 🎨
 
 #### [Project 1: Data Pipeline Development for Business Insights](https://github.com/lorenzilarissa/northwind_desafio)
+- **Project Description:** Here, I engineered a high-performance data warehouse architecture using a modular Multi-Layer framework to transform raw backend logs into refined, business-ready entities. The focus was on reconstructing complex account lifecycles and establishing a deterministic framework for tracking User Engagement (WAU).
+- **Highlights:**
+  - Implemented a State Machine logic using window functions to accurately track non-linear account statuses (Open, Closed, Reopened).
+  - Developed a deterministic WAU framework using a Date Spine to ensure historical consistency and zero variance in engagement metrics.
+  - Optimized warehouse performance and cost-efficiency through BigQuery partitioning strategies and the implementation of surrogate keys via dbt_utils.
+  - Created a comprehensive business glossary and metadata strategy to bridge technical schemas with business definitions for self-service analytics.
+- **Tools Used:** dbt, BigQuery, SQL (GoogleSQL), Looker Studio, GitHub, CI/CD Principles
+
+#### [Project 2: Data Pipeline Development for Business Insights](https://github.com/lorenzilarissa/northwind_desafio)
 - **Project Description:** In this project, I developed a complete data pipeline to centralize, process, and analyze the Northwind database, a fictional business dataset. The project aimed to integrate raw data from various sources, transform it into actionable insights, and visualize key metrics in a BI dashboard.
 - **Highlights:**
   - Built a PostgreSQL database to store and organize the data.
@@ -49,21 +58,17 @@
   - Provided actionable business recommendations for reducing churn and increasing ticket size.
 - **Tools Used:** Python, DBT, PostgreSQL, Metabase, Docker, Jupyter Notebook
 
-#### [Project 2: Exploratory Data Analysis](https://github.com/lorenzilarissa/exploratory-data-analysis)
+#### [Project 3: Exploratory Data Analysis](https://github.com/lorenzilarissa/exploratory-data-analysis)
 - Project Description: In this project, I've used Python libraries such as NumPy, Pandas, Matplotlib, Seaborn, and SciPy to perform data analysis and machine learning tasks.
 - Tools Used: Basic Statistics, Histogram, Box Plot, Q-Q Plot, T-Test, Correlation Analysis
 
-#### [Project 3: Sentiment Analysis](https://github.com/lorenzilarissa/nltk-sentiment-analysis)
+#### [Project 4: Sentiment Analysis](https://github.com/lorenzilarissa/nltk-sentiment-analysis)
 - Project Description: This project performs sentiment analysis on text using the Natural Language Toolkit (NLTK) library in Python. It utilizes NLTK's tokenization, stemming, and sentiment analysis capabilities to analyze the sentiment of a given text.
 - Tools Used: Python, nltk
 
-#### [Project 4: Gold Price Forecasting](https://github.com/lorenzilarissa/gold-price-forecasting)
+#### [Project 5: Gold Price Forecasting](https://github.com/lorenzilarissa/gold-price-forecasting)
 - Project Description: This project offers a comprehensive solution for data analysis, visualization, and predictive modeling, enabling users to gain insights into historical trends and make informed predictions for future gold prices.
 - Tools Used: Python, numpy, pandas, seaborn, matplotlib, statsmodels, scikit learn
-
-#### [Project 5: Chatbot](https://github.com/lorenzilarissa/conversational-ai-chatbot)
-- Project Description: It is a Python-based conversational agent that can answer queries about chatbots. It uses the TF-IDF algorithm to calculate the similarity between user input and a corpus of sentences. The chatbot provides responses based on the most similar sentence in the corpus.
-- Tools Used: Python, numpy, openai, scikit learn, nltk
 
 #### [Project 6: Natural Language Preprocessing](https://github.com/lorenzilarissa/natural_language_preprocessing)
 - Project Description: In this project, I'd explored how to preprocess tweets for sentiment analysis. Here you can see how to use the NLTK package to perform a preprocessing pipeline for Twitter datasets.
