@@ -40,7 +40,7 @@
 
 ### Some of my Projects! 🎨
 
-#### [Project 1: Data Pipeline Development for Business Insights](https://github.com/lorenzilarissa/northwind_desafio)
+#### [Project 1: Scalable Data Warehouse Architecture for Fintech Analytics](https://github.com/lorenzilarissa/banking_analytics_case)
 - **Project Description:** Here, I engineered a high-performance data warehouse architecture using a modular Multi-Layer framework to transform raw backend logs into refined, business-ready entities. The focus was on reconstructing complex account lifecycles and establishing a deterministic framework for tracking User Engagement (WAU).
 - **Highlights:**
   - Implemented a State Machine logic using window functions to accurately track non-linear account statuses (Open, Closed, Reopened).
